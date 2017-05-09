@@ -1,1 +1,1 @@
-Fresh start; Nauja eilute;
+Changed by friend;
