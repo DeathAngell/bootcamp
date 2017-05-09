@@ -1,1 +1,1 @@
-Reset stageing;
+Fresh start; Nauja eilute;
